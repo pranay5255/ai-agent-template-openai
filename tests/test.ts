@@ -11,7 +11,7 @@ async function test() {
             // Choose from any model listed here https://platform.openai.com/docs/models
             model: ["gpt-4o"]
         },
-        secret: { openaiApiKey: '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' },
+        secret: { openaiApiKey: '' },
         headers: {},
     })
     console.log('GET RESULT:', JSON.parse(getResult))
