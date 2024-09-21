@@ -5,6 +5,7 @@ secrets
 coverage.json
 package-lock.json
 typechain
+tests/
 typechain-types
 # Default ignored files
 /shelf/
